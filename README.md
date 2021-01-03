@@ -9,8 +9,8 @@ Please make sure to update tests as appropriate
 
 #### Technical Stack
 
-java 8
-Mysql
+java 8,
+Mysql,
 NetBeans
 
 
